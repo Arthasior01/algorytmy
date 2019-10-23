@@ -1,0 +1,9 @@
+D:\c#\aisd\rekurencje\obj\Debug\rekurencje.csprojAssemblyReference.cache
+D:\c#\aisd\rekurencje\obj\Debug\rekurencje.Form1.resources
+D:\c#\aisd\rekurencje\obj\Debug\rekurencje.Properties.Resources.resources
+D:\c#\aisd\rekurencje\obj\Debug\rekurencje.csproj.GenerateResource.cache
+D:\c#\aisd\rekurencje\bin\Debug\rekurencje.exe.config
+D:\c#\aisd\rekurencje\bin\Debug\rekurencje.exe
+D:\c#\aisd\rekurencje\bin\Debug\rekurencje.pdb
+D:\c#\aisd\rekurencje\obj\Debug\rekurencje.exe
+D:\c#\aisd\rekurencje\obj\Debug\rekurencje.pdb

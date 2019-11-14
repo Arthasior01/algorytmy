@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "najwiekszy wspolny podciag", "najwiekszy wspolny podciag\najwiekszy wspolny podciag.csproj", "{AFB3309E-82E2-4E45-A228-B33A31246A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB3309E-82E2-4E45-A228-B33A31246A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB3309E-82E2-4E45-A228-B33A31246A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB3309E-82E2-4E45-A228-B33A31246A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB3309E-82E2-4E45-A228-B33A31246A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AFA931-A70C-440C-9344-2BD65150D736}
+	EndGlobalSection
+EndGlobal

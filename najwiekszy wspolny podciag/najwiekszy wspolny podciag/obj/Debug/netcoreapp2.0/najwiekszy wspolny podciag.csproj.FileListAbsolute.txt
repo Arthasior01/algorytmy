@@ -1,0 +1,11 @@
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\obj\Debug\netcoreapp2.0\najwiekszy wspolny podciag.csprojAssemblyReference.cache
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\obj\Debug\netcoreapp2.0\najwiekszy wspolny podciag.csproj.CoreCompileInputs.cache
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\obj\Debug\netcoreapp2.0\najwiekszy wspolny podciag.AssemblyInfoInputs.cache
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\obj\Debug\netcoreapp2.0\najwiekszy wspolny podciag.AssemblyInfo.cs
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\bin\Debug\netcoreapp2.0\najwiekszy wspolny podciag.deps.json
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\bin\Debug\netcoreapp2.0\najwiekszy wspolny podciag.runtimeconfig.json
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\bin\Debug\netcoreapp2.0\najwiekszy wspolny podciag.runtimeconfig.dev.json
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\bin\Debug\netcoreapp2.0\najwiekszy wspolny podciag.dll
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\bin\Debug\netcoreapp2.0\najwiekszy wspolny podciag.pdb
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\obj\Debug\netcoreapp2.0\najwiekszy wspolny podciag.dll
+D:\isigr2.3\najwiekszy wspolny podciag\najwiekszy wspolny podciag\obj\Debug\netcoreapp2.0\najwiekszy wspolny podciag.pdb
